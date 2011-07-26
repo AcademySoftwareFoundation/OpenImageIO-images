@@ -1,0 +1,11 @@
+This is a companion project to the OpenImageIO source code 
+(https://github/OpenImageIO/oiio).
+
+OpenImageIO/oiio is for the source code to OpenImageIO.
+
+OpenImageIO/oiio-images is a place to store (potentially large) test
+images and the like that we don't feel belong in the main code repo.
+
+We're still working out the structure of how this repo should be laid
+out.
+
