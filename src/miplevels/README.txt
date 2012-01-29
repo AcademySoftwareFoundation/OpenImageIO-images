@@ -1,0 +1,1 @@
+maketx 4096.tif --mipimage 2048.tif --mipimage 1024.tif --mipimage 512.tif --mipimage 256.tif --mipimage 128.tif --mipimage 64.tif --mipimage 32.tif --mipimage 16.tif --mipimage 8.tif --mipimage 4.tif --mipimage 2.tif --mipimage 1.tif -o ../../miplevels4k.tx
