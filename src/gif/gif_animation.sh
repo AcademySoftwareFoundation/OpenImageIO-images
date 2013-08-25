@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # ImageMagick - http://www.imagemagick.org
 # Gifsicle - http://www.lcdf.org/gifsicle
