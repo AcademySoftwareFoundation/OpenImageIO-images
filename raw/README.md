@@ -16,5 +16,5 @@ Instructions to download what's here:
 
 ```
 wget http://www.rawsamples.ch/raws/canon/RAW_CANON_EOS_7D.CR2
-wget http://www.rawsamples.ch/raws/nikon/RAW_NIKON_D5000.NEF
+wget http://www.rawsamples.ch/raws/nikon/RAW_NIKON_D3X.NEF
 ```
