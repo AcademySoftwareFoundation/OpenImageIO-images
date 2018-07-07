@@ -17,4 +17,9 @@ Instructions to download what's here:
 ```
 wget http://www.rawsamples.ch/raws/canon/RAW_CANON_EOS_7D.CR2
 wget http://www.rawsamples.ch/raws/nikon/RAW_NIKON_D3X.NEF
+wget http://www.rawsamples.ch/raws/fuji/RAW_FUJI_F700.RAF
+wget http://www.rawsamples.ch/raws/olympus/RAW_OLYMPUS_E3.ORF
+wget http://www.rawsamples.ch/raws/panasonic/RAW_PANASONIC_G1.RW2
+wget http://www.rawsamples.ch/raws/sony/RAW_SONY_A300.ARW
+wget http://www.rawsamples.ch/raws/pentax/RAW_PENTAX_K200D.PEF
 ```
