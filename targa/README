@@ -1,0 +1,32 @@
+These files were originally part Truevision's "TGAUTILS" distribution
+containing the Targa file specification, code utilities, and these sample
+images. It was available to all, free of charge, from their public FTP
+server: ftp://ftp.truevision.com/pub/TGA.File.Format.Spec/PC.Version/
+
+The source code files in that directory was clearly marked with a copyright
+notice:
+
+    ** Copyright (c) 1989, 1990
+    ** Truevision, Inc.
+    ** All Rights Reserverd
+
+Presumably that same copyright applies to the sample images as well, though
+they were not specifically labeled in any way. While presented in an "open source" way (free, openly available for downloaded, and clearly intended
+for wide use), they lacked any explicit open source license as we would
+expect now (remember, they date from the 1980s).
+
+This FTP archive doesn't exist any more. Truevision doesn't exist any more,
+it was bought by RasterOps. RasterOps doesn't exist any more, it was bought
+by Pinnacle. Pinnacle was sold to Avid, but then Avid sold (some? all?)
+Pinnacle products to Corel.
+
+It's not clear who at this point owns these files or what the licensing
+terms are. Probably none of these companies even know themselves, and likely
+don't care.
+
+So I'm going to take the chance that if there is anything actually
+protectable in these images (they are just small images of vertical
+stripes), and they belong to any company still in existance, that they
+probably understand them to be what we would not consider open source. But
+if not, and an owner can be identified and contacts me, I will be happy to
+remove these files if that is their desire.
