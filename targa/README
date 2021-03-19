@@ -1,3 +1,13 @@
+round_grill.tga is a regression test supplied by Doug Rogers, associated
+with https://github.com/OpenImageIO/oiio/issues/2900 and relted to Targa
+images with thumbnail records that that have 0x0 size to indicate no
+thumbnail.
+
+For the other images,
+
+    CBW8.TGA  CTC16.TGA  CTC32.TGA  UBW8.TGA  UTC16.TGA  UTC32.TGA
+    CCM8.TGA  CTC24.TGA  UCM8.TGA   UTC24.TGA
+
 These files were originally part Truevision's "TGAUTILS" distribution
 containing the Targa file specification, code utilities, and these sample
 images. It was available to all, free of charge, from their public FTP
@@ -27,6 +37,6 @@ don't care.
 So I'm going to take the chance that if there is anything actually
 protectable in these images (they are just small images of vertical
 stripes), and they belong to any company still in existance, that they
-probably understand them to be what we would not consider open source. But
+probably understand them to be what we would now consider open source. But
 if not, and an owner can be identified and contacts me, I will be happy to
 remove these files if that is their desire.
