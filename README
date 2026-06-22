@@ -1,8 +1,0 @@
-This is a companion project to the OpenImageIO source code 
-(https://github.com/AcademySoftwareFoundation/OpenImageIO).
-
-AcademySoftwareFoundation/OpenImageIO is for the source code to OpenImageIO.
-
-AcademySoftwareFoundation/OpenImageIO-images is a place to store (potentially
-large) test images and the like that we don't feel belong in the main code
-repo.
