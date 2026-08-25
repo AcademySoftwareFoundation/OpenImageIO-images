@@ -67,6 +67,13 @@ Contains material from: https://github.com/MishaalRahmanGH/Ultra_HDR_Samples
 
 No expressive content.
 
+### `ktx2/
+
+All are copied, as they are, from:
+- https://github.com/KhronosGroup/KTX-Software/tree/16059fa93d834242a0aaed9bb54952d76b143fac/tests/resources/ktx2
+- Copyright 2026 The Khronos Group Inc.
+- SPDX-License-Identifier: Apache-2.0
+
 ### `libtiffpic/
 
 These files are from the libtiff project: https://gitlab.com/libtiff
